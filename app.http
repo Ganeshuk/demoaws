@@ -1,0 +1,10 @@
+POST http://localhost:3001/img/2 
+Content-Type: application/json
+
+{
+"img":"verr",
+"num":"1"
+}
+
+###
+GET http://localhost:3001/
